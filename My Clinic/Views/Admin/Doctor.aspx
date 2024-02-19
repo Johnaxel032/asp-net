@@ -5,7 +5,7 @@
     <div class="container.fluid">
         <div class ="row">
             <div class="col-md-4">
-                <h2>Doctors Detail</h2>
+                <h3>Doctors Detail</h3>
                 <form>
    <div class="mb-3">
   <label for="exampleInputEmail1" class="form-label">Doctor Name</label>
@@ -56,7 +56,7 @@
              <div class="col-md-8">
                  <div class="row">
                      <div class="col">
-                         <img src="../../Assets/Images/Doctor1.jpg" height ="250px" width="100%" class ="rounded-5"/>
+                         <img src="../../Assets/Images/Doctor1.jpg" height ="180px" width="80%" class ="rounded-5"/>
 
                      </div>
 

@@ -70,11 +70,16 @@
     <Content Include="Assets\Images\1.jpg" />
     <Content Include="Assets\Images\ambulance.png" />
     <Content Include="Assets\Images\ambulance2.jpg" />
+    <Content Include="Assets\Images\clinic new.jpg" />
+    <Content Include="Assets\Images\clinx.jpg" />
     <Content Include="Assets\Images\Doctor1.jpg" />
     <Content Include="Assets\Images\Doctor2.jpg" />
+    <Content Include="Assets\Images\home.jpg" />
     <Content Include="Assets\Images\hospital.png" />
     <Content Include="Assets\Images\hospital2.jpg" />
+    <Content Include="Assets\Images\laboratorian1.png" />
     <Content Include="Assets\Images\microscope.jpg" />
+    <Content Include="Assets\Images\surgs.png" />
     <Content Include="CSS\Login.css" />
     <Content Include="Libs\bootstrap\dist\css\bootstrap-grid.css" />
     <Content Include="Libs\bootstrap\dist\css\bootstrap-grid.min.css" />
@@ -153,8 +158,10 @@
     <Content Include="Libs\bootstrap\js\src\util\swipe.js" />
     <Content Include="Libs\bootstrap\js\src\util\template-factory.js" />
     <Content Include="Views\Admin\Doctor.aspx" />
+    <Content Include="Views\Admin\Guest\Home.aspx" />
     <Content Include="Views\Admin\Laboratorian.aspx" />
-    <Content Include="Views\Admin\Login.aspx" />
+    <Content Include="Views\Admin\Receptionist.aspx" />
+    <Content Include="Views\Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -173,6 +180,13 @@
     <Compile Include="Views\Admin\Doctor.aspx.designer.cs">
       <DependentUpon>Doctor.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Views\Admin\Guest\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\Guest\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Views\Admin\Laboratorian.aspx.cs">
       <DependentUpon>Laboratorian.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -180,11 +194,18 @@
     <Compile Include="Views\Admin\Laboratorian.aspx.designer.cs">
       <DependentUpon>Laboratorian.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Admin\Login.aspx.cs">
+    <Compile Include="Views\Admin\Receptionist.aspx.cs">
+      <DependentUpon>Receptionist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Admin\Receptionist.aspx.designer.cs">
+      <DependentUpon>Receptionist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Views\Admin\Login.aspx.designer.cs">
+    <Compile Include="Views\Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -347,7 +368,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Doctors\" />
-    <Folder Include="Views\Guest\" />
     <Folder Include="Views\Laboratorian\" />
     <Folder Include="Views\Receptionist\" />
   </ItemGroup>

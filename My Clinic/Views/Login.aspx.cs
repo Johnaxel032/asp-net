@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace My_Clinic.Views.Admin
+namespace My_Clinic.Views
 {
     public partial class Login : System.Web.UI.Page
     {

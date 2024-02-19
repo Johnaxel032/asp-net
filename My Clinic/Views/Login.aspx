@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="My_Clinic.Views.Admin.Login" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="My_Clinic.Views.Login" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -7,8 +6,10 @@
     <title></title>
     <link rel ="stylesheet" href="../../Libs/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="../../CSS/Login.css" />
+    
 </head>
-<body style ="background-image:url(../../Assets/Images/hospital.png);background-size:cover">
+<body style ="background-image:url(../../Assets/Images/clinx.jpg);background-size:cover">
+    
 
     <div class="container-fluid">
         <div class="row" style="height:120px">
@@ -21,6 +22,7 @@
 
    <form id="form1" runat="server">
       
+ 
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -36,9 +38,10 @@
      
   </div>
        <div class="d-grid">
- <button type="submit" class="btn btn-primary">Login</button>
+ <button type="submit" class="btn btn-primary btn-block">Login</button>
 </div>
   
+
 </form>
                         <div class="row" style="height:10px">
 

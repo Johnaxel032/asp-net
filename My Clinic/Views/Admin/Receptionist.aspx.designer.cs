@@ -11,7 +11,7 @@ namespace My_Clinic.Views.Admin
 {
 
 
-    public partial class Laboratorian
+    public partial class WebForm1
     {
 
         /// <summary>

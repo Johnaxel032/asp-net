@@ -10,7 +10,7 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-                        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Clinic</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,16 +19,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#">Doctor</a>
+          <a class="nav-link" href="Doctor.aspx">Doctor</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Laboratorian</a>
+          <a class="nav-link" href="Laboratorian.aspx">Laboratorian</a>
         </li>
             <li class="nav-item">
-        <a class="nav-link" href="#">Receptionist</a>
+        <a class="nav-link" href="Receptionist.aspx">Receptionist</a>
      </li>
             <li class="nav-item">
-        <a class="nav-link" href="#">Logout</a>
+        <a class="nav-link" href="../Login.aspx">Logout</a>
         </li>
         
       </ul>

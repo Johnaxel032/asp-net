@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace My_Clinic.Views.Admin
+namespace My_Clinic.Views.Admin.Guest
 {
 
 
-    public partial class Login
+    public partial class Home
     {
 
         /// <summary>
