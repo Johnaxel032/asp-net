@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\derk2\\source\\repos\\elnet-\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\elnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\admin\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|c:\\users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\admin\\doctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|c:\\users\\user\\source\\repos\\elnet\\my clinic\\views\\admin\\doctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\doctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\admin\\receptionist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\views\\admin\\receptionist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\receptionist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\libs\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\views\\admin\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\guest\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\libs\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\libs\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\derk2\\source\\repos\\elnet-\\my clinic\\views\\admin\\laboratorian.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|C:\\Users\\User\\source\\repos\\elnet\\my clinic\\views\\admin\\laboratorian.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A56355A9-D713-4E25-B71B-5ED573F7DA10}|My Clinic\\My Clinic.csproj|solutionrelative:my clinic\\views\\admin\\laboratorian.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Login.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Login.aspx",
               "RelativeDocumentMoniker": "My Clinic\\Views\\Login.aspx",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Login.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Login.aspx",
               "RelativeToolTip": "My Clinic\\Views\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -61,21 +61,22 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Laboratorian.aspx",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Laboratorian.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Laboratorian.aspx",
               "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\Laboratorian.aspx",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Laboratorian.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Laboratorian.aspx",
               "RelativeToolTip": "My Clinic\\Views\\Admin\\Laboratorian.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-18T18:21:15.192Z"
+              "WhenOpened": "2024-02-18T18:21:15.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
               "RelativeToolTip": "My Clinic\\Libs\\bootstrap\\dist\\css\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -83,47 +84,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Doctor.aspx",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Doctor.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Doctor.aspx",
               "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\Doctor.aspx",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Doctor.aspx",
-              "RelativeToolTip": "My Clinic\\Views\\Admin\\Doctor.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Doctor.aspx*",
+              "RelativeToolTip": "My Clinic\\Views\\Admin\\Doctor.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-18T14:46:26.866Z"
+              "WhenOpened": "2024-02-18T14:46:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "My Clinic\\Views\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-18T13:44:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Receptionist.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Receptionist.aspx",
+              "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\Receptionist.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Receptionist.aspx",
+              "RelativeToolTip": "My Clinic\\Views\\Admin\\Receptionist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-19T15:15:36.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AdminMaster.Master",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\AdminMaster.Master",
-              "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\AdminMaster.Master",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\AdminMaster.Master",
-              "RelativeToolTip": "My Clinic\\Views\\Admin\\AdminMaster.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-18T13:44:58.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Receptionist.aspx",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Receptionist.aspx",
-              "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\Receptionist.aspx",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Receptionist.aspx",
-              "RelativeToolTip": "My Clinic\\Views\\Admin\\Receptionist.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-19T15:15:36.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Guest\\Home.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Guest\\Home.aspx",
               "RelativeDocumentMoniker": "My Clinic\\Views\\Admin\\Guest\\Home.aspx",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\Views\\Admin\\Guest\\Home.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\Views\\Admin\\Guest\\Home.aspx",
               "RelativeToolTip": "My Clinic\\Views\\Admin\\Guest\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -132,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\CSS\\Login.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\CSS\\Login.css",
               "RelativeDocumentMoniker": "My Clinic\\CSS\\Login.css",
-              "ToolTip": "C:\\Users\\derk2\\source\\repos\\elnet-\\My Clinic\\CSS\\Login.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\elnet\\My Clinic\\CSS\\Login.css",
               "RelativeToolTip": "My Clinic\\CSS\\Login.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

@@ -50,8 +50,9 @@
                 </div>
                 <h2>Your Health is our only Priority</h2>
                 <h2>Always Serving you and Taking Care</h2>
+
                 <p class="h6">Our Clinic has been created in 2024 by a group of persons who wanted really take</p>
-                <p class="h6">to really take care  of the health of the population.</p> <br />
+                <p class="h6">to really take care  of the health of the population.</p> 
                 <button class=" btn btn-primary">Contact Us</button>
                 <button class=" btn border-primary text-primary bg-transparent">Feed Back</button>
 
@@ -90,12 +91,13 @@
 
             <div class="col-md-3 bg-light offset-1 rounded-3">
                 <div class ="row">
-    <div class="col-2">
+    <div class="col-3">
         <img src="../../../Assets/Images/surgs.png"/>
     </div>
     <div class="col-7">
         <h5 class ="text-center">Ophtalmology</h5>
         <p class="h6">The Clinic has a Surgery Department with Higly qualified Doctors</p>
+       
     </div>
 </div>
             </div>

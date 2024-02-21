@@ -48,9 +48,13 @@
   <input type="date" class="form-control" id="DOBTb">
 </div>
 
+   
   <button type="submit" class="btn btn-warning">Edit</button>
+
   <button type="submit" class="btn btn-primary">Save</button>
+
   <button type="submit" class="btn btn-danger">Delete</button>
+                   
 </form>
             </div>
              <div class="col-md-8">
